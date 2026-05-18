@@ -72,15 +72,6 @@ http://217.216.110.49:8000/ceriap90
 
 ##################### SPORTS CHANNEL 
 
-#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://i.ibb.co/WpdYqb47/live-webcast-broadcasting-symbol-online-events-1017-62406.jpg" group-title="Sports",Manchester United x Notthingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
- 
- @#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://i.ibb.co/WpdYqb47/live-webcast-broadcasting-symbol-online-events-1017-62406.jpg" group-title="Sports",Manchester United vs Notthingham Forest
- #EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 15; SM-S938B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36","referer":"https://ggsoccer.net/","origin":"https://proxy.lme.isroot.in"}
-https://tvnow.ggsoccerid.workers.dev/stream?id=manchester-united-vs-nottingham-forest-20521
 
 
 ##803
@@ -243,6 +234,17 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+-------------------------------------------------------------------------------
+#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://i.ibb.co/WpdYqb47/live-webcast-broadcasting-symbol-online-events-1017-62406.jpg" group-title="Sports",Manchester United x Notthingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
+ 
+ @#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://i.ibb.co/WpdYqb47/live-webcast-broadcasting-symbol-online-events-1017-62406.jpg" group-title="Sports",Manchester United vs Notthingham Forest
+ #EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 15; SM-S938B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36","referer":"https://ggsoccer.net/","origin":"https://proxy.lme.isroot.in"}
+https://tvnow.ggsoccerid.workers.dev/stream?id=manchester-united-vs-nottingham-forest-20521
 
 #################### TNT Sports
 
@@ -2562,7 +2564,7 @@ https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
 ###########################################EPG###############################################
 
    
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440"
+#EXTM3U url-tvg="https://aqfadtv.xyz/epg,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://warningfm.github.io/x1/epg/guide.xml.gz,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://www.open-epg.com/files/indonesia1.xml,https://www.open-epg.com/files/indonesia2.xml,https://www.open-epg.com/files/indonesia3.xml,https://www.open-epg.com/files/indonesia4.xml,https://www.open-epg.com/files/indonesia5.xml,https://www.open-epg.com/files/indonesia6.xml,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,https://tinyurl.com/DrewLive002-epg" refresh="1440"
 
 ###########################################YUPPTV###############################################
 
