@@ -116,6 +116,11 @@ https://linears2-playback.astro.com.my/vsg/41NHnPzzT8Pdqz_LTGOsWqhPQPAMwUdPrEj3B
 http://opplextv.cyou:8080/nasir6160/nasir/388747
 
 
+#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" group-title="MALAYSIA" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5fc1c84d88fe2_SWyt-480x320.jpg", ASTRO BOO (SERVER 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=boo
+
+
 ##611
 #EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS TV" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
