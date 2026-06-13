@@ -41,6 +41,10 @@ https://i.ibb.co/dBpcjkB/IMG-6206.jpg
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=ria-3
 
+#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" group-title="TEST CHANNEL" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/65ffd20d8ad4b_Ne3n-480x320.png",Ri@ ON/OFF (SERVER 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=ria-3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="TEST CHANNEL",Prim@ ON/OFF
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=prima
@@ -49,9 +53,6 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=prima
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=citra
 
-#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" group-title="TEST CHANNEL" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/65ffd20d8ad4b_Ne3n-480x320.png",Ri@ ON/OFF (SERVER 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=ria-3
 
 ####################################################################HBO GROUPS####################################################################
 
