@@ -131,6 +131,11 @@ http://217.216.110.49:8000/ceriap90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=ceria
 ##http://opplextv.cyou:8080/nasir6160/nasir/388726
 
+
+#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" group-title="KIDS TV" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/638aac7d62c9d_H6H5-480x320.jpg", ASTRO CERIA (SERVER 1)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=ceria
+
 ##################### SPORTS CHANNEL 
 
 
