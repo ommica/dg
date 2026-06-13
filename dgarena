@@ -486,6 +486,38 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="Sports",MUTV
 https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTMyODAxMTIifQ.CpuijBxTUYZTaso6UHbVTjXMcRD3m5x7cL4ygwCFL48/playlist-dash.mpd
 
+##### PREMIER HUB
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hGszyVJ7/ezgif-51f1d228973424c5.png",Hub Premier 1 HD
+##http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
+##http://myxpanel.pro:80/live/jhart/jhart/288375.ts
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620786&extension=ts&play_token=LQgFudtzsy
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3R6wV1YP/ezgif-59db78b6e31298f0.png",Hub Premier 2 HD
+##http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
+##http://myxpanel.pro:80/live/jhart/jhart/288374.ts
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620785&extension=ts&play_token=nTZq3hrxEk
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/mkHYhVjR/ezgif-5436d8b5aa443574.png",Hub Premier 3 HD
+##http://greenslime.cx/live/Bklyn347/QY06ksq41x/57437.ts
+##http://myxpanel.pro:80/live/jhart/jhart/288373.ts
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620784&extension=ts&play_token=Q1vm1lIcOy
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/W12ZPsBP/ezgif-5c91f29f67e41056.png",Hub Premier 4 HD
+##http://greenslime.cx/live/Bklyn347/QY06ksq41x/57438.ts
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620783&extension=ts&play_token=vpHVTyCbNb
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4xLYkVvt/ezgif-5420cd2a35aedeeb.png",Hub Premier 5 HD
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57439.ts
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jdR2DZZF/ezgif-5bb19f4e9cc1aa33.png",Hub Premier 6 HD
+http://lunar.pm:8080/Mrdon/4782314540/110293
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yY661W8j/ezgif-5e11ac99172a013e.png",Hub Premier 7 HD
+http://lunar.pm:8080/Mrdon/4782314540/110294
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/X7wVkFDv/ezgif-5cb535d3cb8b690e.png",Hub Premier 8 HD
+http://lunar.pm:8080/Mrdon/4782314540/110295
 
 
 
