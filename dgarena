@@ -545,6 +545,23 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
+#######################################################################
+
+#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" group-logo="https://i.ibb.co/zhns468H/IMG-20250629-001316-1.png" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="Sports;FIFA WORLD CUP 2026", World Cup 2026 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="Sports;FIFA WORLD CUP 2026", World Cup 2026 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+
+
+#######################################################################
+
 
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="FIFA WORLD CUP 2026", TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
