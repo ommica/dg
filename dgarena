@@ -42,25 +42,6 @@ https://i.ibb.co/dBpcjkB/IMG-6206.jpg
 
 #EXTM3U billed-msg="BELI DI SHOPEE DigitalArena Sahaja - 1 DEVICES"
 
-####################################################################
-
-#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="TEST CHANNEL",Ri@ ON/OFF
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=ria-3
-
-#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" group-title="TEST CHANNEL" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/65ffd20d8ad4b_Ne3n-480x320.png",Ri@ ON/OFF (SERVER 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=ria-3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="TEST CHANNEL",Prim@ ON/OFF
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=prima
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="TEST CHANNEL", Warn@ ON/OFF
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=citra
-
-
 ####################################################################HBO GROUPS####################################################################
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -5183,3 +5164,22 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166073881/1166082022/aa9232507b54d9f9c2f7ebac1712082f6a9705e1" group-title="VOD K-MOVIES", The Witch: Part 2. The Other One
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166073881&quality=s240p&product_id=1784476&lang=Malay
+
+
+####################################################################TEST CHANNEL####################################################################
+
+@#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="TEST CHANNEL",Ri@ ON/OFF
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=ria-3
+
+#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" group-title="TEST CHANNEL" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/65ffd20d8ad4b_Ne3n-480x320.png",Ri@ ON/OFF
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=ria-3
+
+@#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="TEST CHANNEL",Prim@ ON/OFF
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=prima
+
+@#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="TEST CHANNEL", Warn@ ON/OFF
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=citra
