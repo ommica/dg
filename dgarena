@@ -42,53 +42,7 @@ https://i.ibb.co/dBpcjkB/IMG-6206.jpg
 
 #EXTM3U billed-msg="BELI DI SHOPEE DigitalArena Sahaja - 1 DEVICES"
 
-####################################################################HBO GROUPS####################################################################
-
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79f8g.png",HBO (BACKUP)
-https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO.Hits.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits (BACKUP)
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79otR.png",HBO Family (BACKUP)
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO.Signature.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature (BACKUP)
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (BACKUP)
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
-
+####################################################################
 
 ########################################################################BOO DAN CERIA#########################################################################################
 
@@ -5056,3 +5010,50 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=prima
 @#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="TEST CHANNEL", Warn@ ON/OFF
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=citra
+
+####################################################################HBO GROUPS####################################################################
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79f8g.png",HBO (BACKUP)
+https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO.Hits.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits (BACKUP)
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79otR.png",HBO Family (BACKUP)
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO.Signature.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature (BACKUP)
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HBO GROUPS" group-logo="https://iili.io/3O8mkdv.jpg" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (BACKUP)
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
