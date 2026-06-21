@@ -163,7 +163,7 @@ http://217.216.110.49:8000/epl2p90
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-https://linears2-playback.astro.com.my/vsg/41i1EWn9EqEx2wCi8S73NF3ERI9fYyIhE6-ClQ4UvqFlQ=-xnF/dash-wv/jitp-linearwm/5170/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41wn8zjoccc6kF0-XLG6AEbSQQRYV1iOirlBQCuj967vQ=DC5P/dash-wv/jitp-linearwm/5170/default_ott.mpd
 
 @#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
 ##http://217.216.110.49:8000/badmintony70
