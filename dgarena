@@ -54,7 +54,7 @@ https://i.ibb.co/dBpcjkB/IMG-6206.jpg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41TTaZGmeEUr5OXSfKED2r6q7n8UhwG3JCBr6h_z5VROo=UGo-/dash-wv/jitp-linearwm/2407/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41NHnPzzT8Pdqz_LTGOsWqhB7EtFNfGMQ4GDw4usHen8k=FHvV/dash-wv/jitp-linearwm/2407/default_ott.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="MALAYSIA" ch-number="404",404 BOO (Not 24H)
 ##http://217.216.110.49:8000/booy70
@@ -70,19 +70,13 @@ http://opplextv.cyou:8080/nasir6160/nasir/388747
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020c Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://linears2-playback.astro.com.my/vsg/41Elx5_7YGBJtFTZyQ82SXtVUloEfU7ExaRBBDUWi2CeA=Egm7/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41Cf0qldk_TiLLmqqTsDTF4Stgj9oNrY3tdQ5q93Iqs3g=CBWG/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS TV" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
 ##http://217.216.110.49:8000/ceriay70
 http://217.216.110.49:8000/ceriap90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=ceria
 ##http://opplextv.cyou:8080/nasir6160/nasir/388726
-
--------------------------------------------------------------------------------------------
-
-#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" group-title="KIDS TV" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/638aac7d62c9d_H6H5-480x320.jpg", ASTRO CERIA (SERVER 1)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=ceria
 
 ##################### SPORTS CHANNEL 
 
