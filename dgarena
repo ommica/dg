@@ -89,7 +89,7 @@ http://217.216.110.49:8000/ceriap90
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/411exJpOfYU9x_jrfEMh5g-tAF1_QZ0E5JfZaMJLsYh-M=ZXAR/dash-wv/jitp-linearwm/5099/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/411exJpOfYU9x_jrfEMh5g-kOTou1HfufJPzV-lMFu8Ek=TTS7/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Live Event Only)
 ##http://217.216.110.49:8000/bola1y70
@@ -108,15 +108,12 @@ http://217.216.110.49:8000/bola1p90
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41g3B7jXUrYyduo36ygzLMGrkLuEWiXlAxPGvN_p0ah08=fUkc/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41g3B7jXUrYyduo36ygzLMGiSuge-v2WDhAgsFfXkgAMA=TmGA/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 @#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD (Live Event Only)
 ##http://217.216.110.49:8000/bola2y70
 http://217.216.110.49:8000/bola2p90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=bola2
-
-
-
 
 
 
@@ -126,7 +123,7 @@ http://217.216.110.49:8000/bola2p90
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
-https://linears2-playback.astro.com.my/vsg/41i1EWn9EqEx2wCi8S73NF3O2GXaY2UBOUZSR8c332kK4=12YE/dash-wv/jitp-linearwm/5170/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41i1EWn9EqEx2wCi8S73NF3BxmUSmwYEKi40ALz8T7bAQ=fITG/dash-wv/jitp-linearwm/5170/default_ott.mpd
 
 @#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Live Event Only)
 ##http://217.216.110.49:8000/badmintony70
@@ -141,7 +138,7 @@ https://cf.perfecttv.net/rwt.m3u8?username=vip_jtomgvsk&password=3ck0XZBg&channe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.5733245834 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41gUroiiClbrtbu_bKzxGlPQiuD3Er8CeaOOgF-G3SWdM=Lqaq/dash-wv/jitp-linearwm/2701/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41gUroiiClbrtbu_bKzxGlPfH8hXzhyjf8XkZK_SUblhs=pr1n/dash-wv/jitp-linearwm/2701/default_ott.mpd
 
 @#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://i.ibb.co/TxKff1Kj/Astro-Grandstand-2024.png" group-title="Sports",810 Grandstand HD (Live Event Only)
 ##http://217.216.110.49:8000/grandy70
