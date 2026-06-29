@@ -54,7 +54,7 @@ https://i.ibb.co/dBpcjkB/IMG-6206.jpg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41NHnPzzT8Pdqz_LTGOsWqhJlsEeC0GGpkndL_Nqc5ebA=Xjo6/dash-wv/jitp-linearwm/2407/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41NHnPzzT8Pdqz_LTGOsWqhNLqdzU_oXZCIfPV3G7DCTM=ajMF/dash-wv/jitp-linearwm/2407/default_ott.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="MALAYSIA" ch-number="404",404 Boo HD (Not 24H)
 ##http://217.216.110.49:8000/booy70
@@ -70,7 +70,7 @@ http://opplextv.cyou:8080/nasir6160/nasir/388747
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Dw6mw1Q8Kdf1E+uIbrdPiA", "kid": "tuYMoNKOj5c5Xwe04uU6EA"}], "type": "temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36 
-https://linears2-playback.astro.com.my/vsg/41Cf0qldk_TiLLmqqTsDTF4TobO-NvbHRg6My4dGiPgmA=C-ik/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41Cf0qldk_TiLLmqqTsDTF4XAMQ4nzEpQU0EdNigDPvss=xDG_/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 @#EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS TV" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
 ##http://217.216.110.49:8000/ceriay70
