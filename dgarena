@@ -754,8 +754,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
 #https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV3&provider=mytech
 
-@#EXTINF:-1 tvg-id="tv3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=530" group-title=" MALAYSIA",TV3 FHD
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
+#EXTINF:-1 tvg-id="tv3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=530" group-title=" MALAYSIA",TV3 FHD
+#https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 #EXTINF:-1 group-logo="https://iili.io/3O8mkdv.jpg" tvg-id="146.astro" tvg-name="TV Okey" tvg-logo="https://i.ibb.co/qF54fK81/Okey-RTM.png" group-title="MALAYSIA" ch-number="146",146 Okey HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
